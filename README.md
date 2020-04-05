@@ -17,6 +17,7 @@ We strive for neutral, cleanest form possible to be sustained by group of collab
 ## What is the Web Site State?
 
 The web site is in development.
+It uses [Dokuwiki](dokuwiki.org) software with various plugins and their source code with custom modifications is located at various git repositories of this GitHub organization.
 
 ## Cooperation
 
@@ -43,6 +44,7 @@ Snažíme se o neutrální, nejčistší možnou formu udržovanou skupinou spol
 ## Jaký je stav stránek?
 
 Stránky jsou ve vývoji.
+Používají [Dokuwiki](dokuwiki.org) software s různými doplňky a jejich přizpůsoběný zdrojový kód se nachází v různých git úložištích této GitHub organizace.
 
 ## Spolupráce
 
