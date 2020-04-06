@@ -8,6 +8,8 @@ See Issues for work done or planned.
 This web site is intended for whole Earth to serve and preserve collected works of Lord Abd-ru-shin.
 We strive for neutral, cleanest form possible to be sustained by group of collaborators.
 
+Original formulation of the project in Czech can be found at address http://duchovnipodpora.vzestup.net/projekty/ciste_slovo/start.
+
 ## Where is the Web Site Located?
 
 - Currently the web site is located at address http://abd-ru-shin.vzestup.net
@@ -34,6 +36,8 @@ Pro hotovou nebo plánovanou práci použijte Issues (úkoly).
 
 Tyto stránky jsou zamýšleny pro celou Zemi, aby poskytovaly a zachovaly sbírku díla Pána Abdrushina.
 Snažíme se o neutrální, nejčistší možnou formu udržovanou skupinou spolupracovníků.
+
+Původní vyjádření projektu naleznete na adrese http://duchovnipodpora.vzestup.net/projekty/ciste_slovo/start.
 
 ## Kde se tránky nachází?
 
