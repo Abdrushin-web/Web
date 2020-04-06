@@ -35,7 +35,7 @@ Pro hotovou nebo plánovanou práci použijte Issues (úkoly).
 
 ## Jaký je záměr webových stránek?
 
-Tyto stránky jsou zamýšleny pro celou Zemi, aby poskytovaly a zachovaly sbírku díla Pána Abdrushina v růyných jazycích a vydáních.
+Tyto stránky jsou zamýšleny pro celou Zemi, aby poskytovaly a zachovaly sbírku díla Pána Abdrushina v různých jazycích a vydáních.
 Snažíme se o neutrální, nejčistší možnou formu udržovanou skupinou spolupracovníků.
 
 Nové webové stránky jsou pokračováním stránek http://slovo.vzestup.net s českým překladem díla Pána Abdrushina.
