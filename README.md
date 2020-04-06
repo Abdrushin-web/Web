@@ -5,9 +5,10 @@ See Issues for work done or planned.
 
 ## What is the Web Site Intention?
 
-This web site is intended for whole Earth to serve and preserve collected works of Lord Abd-ru-shin.
+This web site is intended for whole Earth to serve and preserve collected works of Lord Abd-ru-shin in multiple languages and editions.
 We strive for neutral, cleanest form possible to be sustained by group of collaborators.
 
+New web site is continuation of web site http://slovo.vzestup.net with Czech translation of Lord Abdrushin works.
 Original formulation of the project in Czech can be found at address http://duchovnipodpora.vzestup.net/projekty/ciste_slovo/start.
 
 ## Where is the Web Site Located?
@@ -34,9 +35,10 @@ Pro hotovou nebo plánovanou práci použijte Issues (úkoly).
 
 ## Jaký je záměr webových stránek?
 
-Tyto stránky jsou zamýšleny pro celou Zemi, aby poskytovaly a zachovaly sbírku díla Pána Abdrushina.
+Tyto stránky jsou zamýšleny pro celou Zemi, aby poskytovaly a zachovaly sbírku díla Pána Abdrushina v růyných jazycích a vydáních.
 Snažíme se o neutrální, nejčistší možnou formu udržovanou skupinou spolupracovníků.
 
+Nové webové stránky jsou pokračováním stránek http://slovo.vzestup.net s českým překladem díla Pána Abdrushina.
 Původní vyjádření projektu naleznete na adrese http://duchovnipodpora.vzestup.net/projekty/ciste_slovo/start.
 
 ## Kde se tránky nachází?
