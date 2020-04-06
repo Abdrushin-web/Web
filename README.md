@@ -8,7 +8,7 @@ See Issues for work done or planned.
 This web site is intended for whole Earth to serve and preserve collected works of Lord Abd-ru-shin in multiple languages and editions.
 We strive for neutral, cleanest form possible to be sustained by group of collaborators.
 
-New web site is continuation of web site http://slovo.vzestup.net with Czech translation of Lord Abdrushin works.
+New web site is continuation of web site http://slovo.vzestup.net with Czech translation of Lord Abdrushin`s works.
 Original formulation of the project in Czech can be found at address http://duchovnipodpora.vzestup.net/projekty/ciste_slovo/start.
 
 ## Where is the Web Site Located?
