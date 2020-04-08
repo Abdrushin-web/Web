@@ -25,6 +25,7 @@ It uses [Dokuwiki](dokuwiki.org) software with various plugins and their source 
 ## Cooperation
 
 If You would like to join and help, You can write to address abd-ru-shin@vzestup.net to coordinate.
+Facebook group https://www.facebook.com/groups/abdrushin.net can be used for announcements and other discussions as well.
 
 ---
 
@@ -55,3 +56,4 @@ Používají [Dokuwiki](dokuwiki.org) software s různými doplňky a jejich př
 ## Spolupráce
 
 Pokud se chcete zapojit a přidat ruku k dílu, napište na adresu abd-ru-shin@vzestup.net, abychom se domluvili.
+Lye vzužít i Facebook skupinu https://www.facebook.com/groups/abdrushin.net pro oynámení a další diskuzi.
