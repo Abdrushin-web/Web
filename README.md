@@ -56,4 +56,4 @@ Používají [Dokuwiki](dokuwiki.org) software s různými doplňky a jejich př
 ## Spolupráce
 
 Pokud se chcete zapojit a přidat ruku k dílu, napište na adresu abd-ru-shin@vzestup.net, abychom se domluvili.
-Lye vzužít i Facebook skupinu https://www.facebook.com/groups/abdrushin.net pro oynámení a další diskuzi.
+Lze využít i Facebook skupinu https://www.facebook.com/groups/abdrushin.net pro oznámení a další diskuzi.
