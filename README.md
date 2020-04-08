@@ -42,7 +42,7 @@ Snažíme se o neutrální, nejčistší možnou formu udržovanou skupinou spol
 Nové webové stránky jsou pokračováním stránek http://slovo.vzestup.net s českým překladem díla Pána Abdrushina a snahou o sjednocení dalších různorodých stránek s podobným záměrem.
 Původní vyjádření projektu naleznete na adrese http://duchovnipodpora.vzestup.net/projekty/ciste_slovo/start.
 
-## Kde se tránky nachází?
+## Kde se stránky nachází?
 
 - V současnosti jsou stránky na adrese http://abd-ru-shin.vzestup.net
 - Cílem je jejich přemístění na adresu http://abd-ru-shin.net
