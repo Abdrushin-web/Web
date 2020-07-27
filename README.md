@@ -47,7 +47,7 @@ Původní vyjádření projektu naleznete na adrese http://duchovnipodpora.vzest
 ## Jaký je stav stránek?
 
 Stránky jsou ve vývoji.
-Používají [Dokuwiki](dokuwiki.org) software s různými doplňky a jejich přizpůsoběný zdrojový kód se nachází v různých git úložištích této GitHub organizace.
+Používají [Dokuwiki](dokuwiki.org) software s různými doplňky a jejich přizpůsobený zdrojový kód se nachází v různých git úložištích této GitHub organizace.
 
 ## Spolupráce
 
