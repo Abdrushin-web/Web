@@ -22,7 +22,7 @@ It uses [Dokuwiki](dokuwiki.org) software with various plugins and their source 
 
 ## Cooperation
 
-If You would like to join and help, You can write to address abdrushin.web@vzestup.net to coordinate.
+If You would like to join and help, You can write to address info@abdrushin.one to coordinate.
 Facebook group https://www.facebook.com/groups/abdrushin.web can be used for announcements and other discussions as well.
 
 ---
@@ -51,5 +51,5 @@ Používají [Dokuwiki](dokuwiki.org) software s různými doplňky a jejich př
 
 ## Spolupráce
 
-Pokud se chcete zapojit a přidat ruku k dílu, napište na adresu abdrushin.web@vzestup.net, abychom se domluvili.
+Pokud se chcete zapojit a přidat ruku k dílu, napište na adresu info@abdrushin.one, abychom se domluvili.
 Lze využít i Facebook skupinu https://www.facebook.com/groups/abdrushin.web pro oznámení a další diskuzi.
