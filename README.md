@@ -41,7 +41,7 @@ Pro jednoduchost je další práce plánovaná na:
 - [Plán obsahu](https://abdrushin.one/cs/about/obsah/plan)
 - [Plán software](https://abdrushin.one/cs/about/software/plan)
 
-Issues (úkoly) lze pou69t pozd2ji, pokud to bude potřeba.
+Úkoly (issues) tohoto projektu lze použít později, pokud to bude potřeba.
 
 ## Jaký je záměr webových stránek?
 
