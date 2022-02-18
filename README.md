@@ -1,7 +1,12 @@
 # Abdrushin.one Web Site
 
-This is main place to develop and maintain Abdrushin.one web site.
-See Issues for work done or planned.
+This is a place to describe and maintain **Abdrushin.one** web site.
+
+For simplicity future work is now planned at:
+- [Content plan](https://abdrushin.one/cs/about/obsah/plan)
+- [Software plan](https://abdrushin.one/cs/about/software/plan)
+
+Issues of this project may be used later if required.
 
 ## What is the Web Site Intention?
 
@@ -29,8 +34,14 @@ Facebook group https://www.facebook.com/groups/abdrushin.web can be used for ann
 
 # Webové stránky Abdrushin.one
 
-Toto místo slouží k hlavnímu vývoji a udržování webových stránek Abdrushin.one.
-Pro hotovou nebo plánovanou práci použijte Issues (úkoly).
+Toto místo slouží k popisu a udržování webových stránek **Abdrushin.one**.
+
+Pro jednoduchost je další práce plánovaná na:
+
+- [Plán obsahu](https://abdrushin.one/cs/about/obsah/plan)
+- [Plán software](https://abdrushin.one/cs/about/software/plan)
+
+Issues (úkoly) lze pou69t pozd2ji, pokud to bude potřeba.
 
 ## Jaký je záměr webových stránek?
 
