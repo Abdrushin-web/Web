@@ -3,8 +3,8 @@
 This is a place to describe and maintain **Abdrushin.one** web site.
 
 For simplicity future work is now planned at:
-- [Content plan](https://abdrushin.one/cs/about/obsah/plan)
-- [Software plan](https://abdrushin.one/cs/about/software/plan)
+- [Content plan](https://abdrushin.one/cs/projekt/obsah/plan)
+- [Software plan](https://abdrushin.one/cs/projekt/software/plan)
 
 Issues of this project may be used later if required.
 
@@ -38,8 +38,8 @@ Toto místo slouží k popisu a udržování webových stránek **Abdrushin.one*
 
 Pro jednoduchost je další práce plánovaná na:
 
-- [Plán obsahu](https://abdrushin.one/cs/about/obsah/plan)
-- [Plán software](https://abdrushin.one/cs/about/software/plan)
+- [Plán obsahu](https://abdrushin.one/cs/projekt/obsah/plan)
+- [Plán software](https://abdrushin.one/cs/projekt/software/plan)
 
 Úkoly (issues) tohoto projektu lze použít později, pokud to bude potřeba.
 
